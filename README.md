@@ -1,13 +1,5 @@
-# algorand-hackathon
-Algorand Hackathon 
-Idea:
+This is my collection of bounty projects; part of the Algorand/ Gitcoin Greenhouse bounty. I have chosen a couple of different ones to consider, so at this point I am just jotting down my ideas for the various bounties I am considering. The next step will be reaching out to the community and determining if there are others who will join in with me.
 
- - Many exciting multiplayer and heads up internet games would be prime targets for contests and tournaments which could be monetized. This of course is already being done, but the down-side of centralization is obvious. 
-   - had all my money frozen playing online poker
-   - paypal banned me for facilitating token purchases
-   - sites go bankrupt
-   - sketchy payment processors
-- People who run DFS applications or poker tournaments or any gaming application, in which points are accumulated over some period of time and want to focus on the user experience of their game.
-  - They require trust from their users to hold their money.
-  - The centralized escrow type services for Daily Fantasy Sports charge a prohibitive amount to those who like to play for money but for micro amounts.
-  - ngl helps circumvent draconian legal jurisdictions which fail to categorize games of skill as just that.
+I have narrowed down my choices at this point to the following:
+
+  1. 
