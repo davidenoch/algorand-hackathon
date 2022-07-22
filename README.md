@@ -1,5 +1,12 @@
 This is my collection of bounty projects; part of the Algorand/ Gitcoin Greenhouse bounty. I have chosen a couple of different ones to consider, so at this point I am just jotting down my ideas for the various bounties I am considering. The next step will be reaching out to the community and determining if there are others who will join in with me.
 
-I have narrowed my choices down to the bounties listed below. There is a folder and a readme.md for each one but not much more as of yet. I have ordered them by my choice of project, but for various reasons I may fall back to any one of the five listed below. 
+I have narrowed my choices down to the bounties listed below. There is a folder and a readme.md for each one but not much more as of yet. I have ordered them by my choice of project, but for various reasons I may fall back to any one of those listed below. 
 
-  1. 
+  1. **Building a DSL for gaming** – This is my top choice. This one absolutely requires a team which includes people with a skill level I don't posess, when it comes to implementation and demo. However, I do believe I have a good idea, and the part of the project which I am capable of, which is the high level side of things where I define the language, I can do on my own, at which point either I will have assembled a team or I will shelve the project, content in having gotten off to a nice start for a future endeavor
+  2. **Codeless Bounty** Marketing for Degens. This one I can try to do on my own and I have some mad skillz that I bring to the table. I have been doing data analytics for a while now, and my plan is to leverage this skill to develop a market segmentation analysis, followed by a set of reccommendations based on the findings. I would much prefer to implement this idea as a part of a team, as reaching out and actually interviewing users, which fit the definition of "degen" would be an ominous task as an individual. 
+  3. **Soul Bound NFTs ARC** — This one is rated beginner level and seems like a project that might be done solo. I would look at previous ARCs and the EVM version of the Soul Bound NFT contract.
+  4. **DAO with voting and crowd funding** — This topic interests me and I would join somebody elses team. I would be interested in exploring a Mirror like project or other alternative media as opposed to a crowd investment kind of thing.
+  5. **Interoperable NFTs** — I have a silly idea about this, but I don't think it will work. I would find writing a light client on the network to be an interesting one, but I think this is out of my league so I might join someone elses team  if it looked interesting and I saw a role for myself.
+  6. **BYOP** - My BYOP is the top listed DSL for gaming. However, if I can't get anyone else to come on board for that, and something else interesting is brewing, I will go for that.
+  
+  
